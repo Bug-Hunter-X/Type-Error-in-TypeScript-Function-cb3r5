@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript where a function expecting numeric arguments is called with a string. The bug.ts file shows the error, and bugSolution.ts demonstrates a solution using type guards.
